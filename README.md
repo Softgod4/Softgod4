@@ -1,8 +1,6 @@
 ### Hi there 👋, Frontend gigachad Softgod
 #### TrickyBestia❤
-![TrickyBestia❤](https://www.codewars.com/users/Softgod4/badges/large)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Softgod4&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Softgod4&theme=solarized_dark)
 
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+![](https://www.codewars.com/users/Softgod4/badges/large)
