@@ -1,6 +1,9 @@
 # Hi there 👋, Softgod loves Typescript!
 ## I'm here to love TrickyBestia❤ and write one page landing pages in HTML/CSS/REACT
 
+<a>
+  <img align="center" src="https://streak-stats.demolab.com?user=Softgod4&theme=dark&border_radius=0.5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&card_height=200)"/>
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs" />
 </a>
