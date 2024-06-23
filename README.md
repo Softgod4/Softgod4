@@ -1,9 +1,9 @@
 # Hi there 👋, Softgod loves Typescript!
 ## I'm here to love TrickyBestia❤ and write one page landing pages in HTML/CSS/REACT
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=Softgod4&theme=dark&border_radius=0.5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&card_height=200" alt="GitHub Streak" style="width: 350px; height: 200px; margin: 12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs" style="width: 350px; height: 200px; margin: 12px;"/>
+<div style="display: flex; justify-content: space-between; align-items: start;">
+  <img src="https://streak-stats.demolab.com?user=Softgod4&theme=dark&border_radius=0.5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&card_height=200" alt="GitHub Streak" style="margin: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs" style="width: 350px; height: 200px; margin: 20px;"/>
 </div>
 
 <img style="margin-top: 20px; margin-bottom: 20px;" src="https://www.codewars.com/users/Softgod4/badges/large" alt="Codewars" />
