@@ -2,7 +2,6 @@
 ## I'm here to love TrickyBestia❤ and write one page landing pages in HTML/CSS/REACT
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Softgod4&theme=dark&border_radius=0.5&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=200"/>
   <img src="https://www.codewars.com/users/Softgod4/badges/large" alt="Codewars" />
 </div>
 
