@@ -33,6 +33,10 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=339933" height="32" alt="Node.js logo" />
   </a>
+  <img width="5" />
+  <a href="https://mainportfolio-softgod4s-projects.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=My Website&logo=monica&label=&color=AD7748&logoColor=white&labelColor=AD7748" height="32" alt="Node.js logo" />
+  </a>
 </div>
 
 ###
