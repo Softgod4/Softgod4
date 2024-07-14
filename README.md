@@ -53,5 +53,9 @@ Beyond coding, I enjoy working in Photoshop and playing the bass guitar. Combini
 
 <h2 align='left'>My Stats UwU</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Softgod4&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align='start'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softgod4&layout=donut&theme=transparent" height="200px"/>
+  <img width="12" />
+  <img src="https://github.r2v.ch/codewars?user=Softgod4&theme=gradient_purple_dark_by_level&top_languages=false" height="200px"/>
+</div>
 
