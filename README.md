@@ -39,9 +39,19 @@
 
 <h2 align="left">🌟 Hey there! UwU</h3>
 
-<p align='left'>I'm Softgod, a passionate programmer who adores crafting websites. For the past 5 years, what started as a hobby has now blossomed into my profession. I love working with React, Next, Typescript, and Scss, and I actively use them in my projects. I also dabble in Node.js when needed.
+<p align='left'>I'm a web developer with over 5 years of experience specializing in building modern, responsive websites and applications. My expertise lies in working with React, Next.js, TypeScript, and SCSS, where I have a strong track record of delivering high-quality, performant front-end solutions. I take pride in writing clean, maintainable code that adheres to best practices and industry standards.
 
-Beyond coding, I enjoy working in Photoshop and playing the bass guitar. Combining creativity and technical skills keeps me excited every day. Let's create something amazing together!  UwU</p>
+Throughout my career, I've developed a deep understanding of the entire web development process, from initial concept and design through to deployment and ongoing maintenance. I have experience working on a wide range of projects, from small business websites to large-scale web applications, always focusing on user experience and performance.
+
+In addition to my front-end skills, I have hands-on experience with Node.js, which allows me to work on full-stack projects when necessary. This versatility enables me to tackle complex problems and contribute to all aspects of a project, ensuring a cohesive and well-rounded solution.
+
+I'm also passionate about contributing to the open-source community. I enjoy creating and sharing software that others can use, learn from, and improve. This commitment to open source reflects my belief in collaboration and continuous learning.
+
+Currently, I'm expanding my skill set by learning Vue.js, driven by the desire to stay up-to-date with the latest trends and technologies in web development. I believe that continuous learning is key to staying relevant in this rapidly evolving field.
+
+My goal is to contribute to projects that push the boundaries of what the web can do, leveraging my skills to create innovative and impactful digital experiences. I am committed to working collaboratively with teams to bring ideas to life and deliver results that exceed expectations.
+
+Let's work together to build something exceptional! 🎉</p>
 
 ###
 
