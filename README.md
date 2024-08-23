@@ -19,10 +19,6 @@
   </a>
   <img width="5" />
   <a href="https://kernel.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linux&logo=Linux&label=&color=FCC624&logoColor=white&color=white&labelColor=5D5D5D" height="32" alt="Linux logo" />
-  </a>
-  <img width="5" />
-  <a href="https://kernel.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Arch Linux&logo=Arch Linux&label=&color=1793D1&logoColor=white&labelColor=1793D1" height="32" alt="Arch Linux logo" />
   </a>
   <img width="5" />
